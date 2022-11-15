@@ -1,0 +1,95 @@
+IN: 18-09-2018, 09:45:11
+OUT: 18-09-2018, 09:45:18
+IN: 18-09-2018, 09:45:24
+OUT: 18-09-2018, 09:45:31
+IN: 18-09-2018, 09:45:37
+OUT: 18-09-2018, 09:45:44
+IN: 18-09-2018, 09:49:56
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+OUT: 18-09-2018, 09:52:15
+IN: 18-09-2018, 09:52:39
+IN: 18-09-2018, 09:52:46
+OUT: 18-09-2018, 09:52:48
+OUT: 18-09-2018, 09:53:24
+IN: 18-09-2018, 09:53:28
+IN: 18-09-2018, 09:53:35
+OUT: 18-09-2018, 09:55:17
+OUT: 18-09-2018, 09:56:00
+IN: 18-09-2018, 09:56:40
+IN: 18-09-2018, 09:56:41
+IN: 18-09-2018, 09:56:53
+OUT: 18-09-2018, 10:00:04
+IN: 18-09-2018, 10:00:24
+OUT: 18-09-2018, 10:01:26
+OUT: 18-09-2018, 10:01:31
+IN: 18-09-2018, 10:02:05
+IN: 18-09-2018, 10:03:14
+OUT: 18-09-2018, 10:03:59
+IN: 18-09-2018, 10:04:14
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+IN: 18-09-2018, 10:33:29
+OUT: 18-09-2018, 10:33:36
+IN: 18-09-2018, 10:34:23
+IN: 18-09-2018, 10:37:40
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// IN_ERROR: Don't consider previous row.
+// OUT_ERROR: Don't consider previous row.
+IN: 18-09-2018, 10:51:03
+OUT: 18-09-2018, 10:51:08
+IN: 18-09-2018, 10:51:13
+OUT: 18-09-2018, 10:51:19
+OUT: 18-09-2018, 10:57:29
+IN: 18-09-2018, 10:58:06
+IN: 18-09-2018, 10:59:21
+OUT: 18-09-2018, 10:59:29
+OUT: 18-09-2018, 10:59:32
+OUT: 18-09-2018, 10:59:35
+OUT: 18-09-2018, 11:02:24
+IN: 18-09-2018, 11:03:10
+IN: 18-09-2018, 11:03:11
+IN: 18-09-2018, 11:04:35
+IN: 18-09-2018, 11:05:36
+IN: 18-09-2018, 11:07:36
+OUT: 18-09-2018, 11:08:03
+IN: 18-09-2018, 11:08:09
+IN: 18-09-2018, 11:10:29
+OUT: 18-09-2018, 11:14:04
+OUT: 18-09-2018, 11:14:06
+IN: 18-09-2018, 11:16:37
+OUT: 18-09-2018, 11:21:24
+OUT: 18-09-2018, 11:23:11
+IN: 18-09-2018, 11:24:35
+OUT: 18-09-2018, 11:24:45
+OUT: 18-09-2018, 11:24:49
+OUT: 18-09-2018, 11:25:57
+IN: 18-09-2018, 11:26:29
+OUT: 18-09-2018, 11:27:15
+IN: 18-09-2018, 11:29:58
+OUT: 18-09-2018, 11:35:15
+IN: 18-09-2018, 11:35:55
